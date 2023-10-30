@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
 
   <!-- [![Notion Badge](https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white&link=mailto:https://www.notion.so/About-Me-b3b7e90ad771474b9fd75d2047451516?pvs=4)](https://www.notion.so/About-Me-b3b7e90ad771474b9fd75d2047451516?pvs=4) -->
+  <br/><br/>
+
+  ![JaeKyoung's github stats](https://github-readme-stats.vercel.app/api?username=ParkJaeKy0ung&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJaeKy0ung&layout=compact&theme=tokyonight)
+
   
   
 </div>
