@@ -1,6 +1,7 @@
 # <div align="center">Hi, I'm JaeKyoung 😊</div>
 
 <div align="center">
+  
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJaeKy0ung&count_bg=%23CFAC7B&title_bg=%23492D0E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <br/><br/>
   
@@ -29,7 +30,7 @@
   <h3>🙋🏻‍♀️ About Me</h3>
   <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
 
-  [![Notion Badge](https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white&link=mailto:https://www.notion.so/About-Me-b3b7e90ad771474b9fd75d2047451516?pvs=4)](https://www.notion.so/About-Me-b3b7e90ad771474b9fd75d2047451516?pvs=4)
+  <!-- [![Notion Badge](https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white&link=mailto:https://www.notion.so/About-Me-b3b7e90ad771474b9fd75d2047451516?pvs=4)](https://www.notion.so/About-Me-b3b7e90ad771474b9fd75d2047451516?pvs=4) -->
   
   
 </div>
