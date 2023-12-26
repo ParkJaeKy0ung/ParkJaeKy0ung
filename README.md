@@ -28,7 +28,9 @@
   <br/><br/>
 
   <h3>🙋🏻‍♀️ About Me</h3>
-  <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <a href="https://goanddo.notion.site/JaeKyoung-s-Portfolio-b3b7e90ad771474b9fd75d2047451516?pvs=4">
+    <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
+  </a>
 
   <!-- [![Notion Badge](https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white&link=mailto:https://www.notion.so/About-Me-b3b7e90ad771474b9fd75d2047451516?pvs=4)](https://www.notion.so/About-Me-b3b7e90ad771474b9fd75d2047451516?pvs=4) -->
   <br/><br/>
